@@ -1,0 +1,24 @@
+{
+  "eye_iris": {
+    "pos_y": 0,
+    "pos_z": 0,
+    "rot_x": 0,
+    "scale_y": 1.0,
+    "scale_z": 1.0
+  },
+  "eye_pupil": {
+    "pos_y": 0,
+    "pos_z": 0,
+    "rot_x": 0,
+    "scale_y": 1.0,
+    "scale_z": 1.0
+  },
+  "eye_upper": {
+    "pos_z": 0,
+    "scale_z": 1.0
+  },
+  "eye_lower": {
+    "pos_z": 0,
+    "scale_z": 1.0
+  }
+}
